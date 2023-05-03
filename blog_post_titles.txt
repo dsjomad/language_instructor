@@ -1,0 +1,20 @@
+1. Oracle Database Architecture
+2. Oracle Backup and Recovery
+3. Oracle Disaster Recovery and High Availability
+4. Oracle RAC
+5. Oracle Exadata
+6. Oracle Active Data Guard
+7. Oracle Logical Standby
+8. Oracle GoldenGate
+9. Oracle Database Security
+10. Oracle Database Performance Tuning
+11. Oracle Database Cloud Services
+12. Oracle Database Migration
+13. Oracle Database Administration
+14. Oracle Database Monitoring and Management
+15. Oracle Database Automation
+16. Oracle Database DevOps
+17. Oracle Database Machine Learning
+18. Oracle Database Blockchain
+19. Oracle Database Internet of Things
+20. Oracle Database Big Data

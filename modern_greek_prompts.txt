@@ -1,0 +1,2 @@
+Welcome to the Modern Greek language course!\\n\\nLesson 1: Greetings\\n\\n1. Hello\\n2. Goodbye\\n3. How are you?\\n4. I'm fine, thank you.\\n5. What is your name?\\n6. My name is...\\n\\nPlease repeat after me.\\n\\n1. Γεια σου\\n2. Αντίο\\n3. Πώς είσαι;\\n4. Είμαι καλά, ευχαριστώ.\\n5. Πώς σε λένε;\\n6. Με λένε...\\n
+Beginner: Hello, my name is [name]. I am learning Modern Greek. Intermediate: I would like to order [food/drink] please. Master: Can you tell me about the history of Greece?

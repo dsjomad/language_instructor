@@ -1,0 +1,43 @@
+Search results for Modern Greek: [
+    {
+        "title": "The Beginner's Guide To Learning Modern Greek (How To Get Started)",
+        "href": "https://www.mezzoguild.com/beginners-guide-to-modern-greek/",
+        "body": "They include CDs which will help you memorize slow Greek dialogues and eventually use these sentences and their structure to your speaking as well. Introductions, small talk, asking for something or ordering food, talking about yourself and your preferences are some of the first things you 'll learn."
+    },
+    {
+        "title": "Here're The Resources To Learn Modern Greek! - I kinda like languages ...",
+        "href": "https://ikindalikelanguages.com/blog/herere-the-resources-to-learn-modern-greek/",
+        "body": "Here're The Resources To Learn Modern Greek! Written by Linas Attention: If you want to learn or improve your Greek while having fun, please try my Interlinear Greek bilingual book. This book is a Greek book by Roubina Gouyoumtzian translated in the innovative Interlinear format, where the translation is provided below each word."
+    },
+    {
+        "title": "Learn Greek Online: 39 Free Resources and Classes to Learn the Greek ...",
+        "href": "https://www.fluentin3months.com/learn-greek-online/",
+        "body": "Wikibooks offers Modern Greek language learners a free online coursebook. Live Lingua: There are several free courses in Greek on Live Lingua, a database of Peace Corps and FSI coursebooks and audio materials. Goethe Verlag has 100 free lessons for Greek language learners."
+    },
+    {
+        "title": "Books and Resources to Learn Modern Greek | Greek Language Textbooks ...",
+        "href": "https://helinika.com/2020/10/02/greek-language-textbooks/",
+        "body": "Looking for books and textbooks for learning modern Greek? Helinika has gathered the best language learning resources for learning Greek that you can easily buy on Amazon. These will come in handy along with the free learning materials and Udemy courses that Helinika offers to all of its followers! Best Greek Language Textbooks on Amazon"
+    },
+    {
+        "title": "Learn Greek Online - 16 Best (And Worst) Courses For 2022",
+        "href": "https://www.alllanguageresources.com/greek-courses/",
+        "body": "Let's dive in with our top choices for learning Greek. Top Tier Pimsleur, Language Transfer, Italki, GreekPod101 2nd Tier Memrise, Duolingo, FSI, Udemy 3rd Tier Glossika, Greek-LOL, Mango Languages, Michel Thomas Method 4th Tier Rosetta Stone, Living Language, Mondly, Transparent Language Top Tier"
+    },
+    {
+        "title": "15 Best And Worst Online Greek Courses For 2023",
+        "href": "https://www.mezzoguild.com/online-greek-courses/",
+        "body": "The best Greek courses online (most popular Greek resources) 1. GreekPod101 Cost: Starts as low as $4 a month. Summary: GreekPod101 is a brilliant online resource for learning Greek (especially listening comprehension). If you're into podcast learning especially, this might be the course for you. GreekPod101 uses audio lessons similar to podcasts."
+    },
+    {
+        "title": "The 11 Best Apps to Learn Greek Quickly in 2022 - Langoly",
+        "href": "https://www.langoly.com/apps-to-learn-greek/",
+        "body": "A subscription to the Pimsleur app costs $14.99 per month for access to the Greek course. If you want access to all of Pimsleur's language courses, you can get an All Access subscription for $20.99 per month. I suggest taking advantage of Pimsleur's free 7-day trial before paying anything."
+    },
+    {
+        "title": "How do you effectively learn modern Greek today? : r ... - Reddit",
+        "href": "https://www.reddit.com/r/languagelearning/comments/q6e34z/how_do_you_effectively_learn_modern_greek_today/",
+        "body": "After learning the alphabet, basic pronunciation and grammar: reading and listening a lot on LingQ, taking notes, using the Goldlist Method for learning vocabulary. Reading and listening are the most effective tools for getting a language into my head."
+    }
+]
+

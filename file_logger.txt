@@ -1,0 +1,24 @@
+File Operation Logger write: <path_to_file>
+write: <file_name>
+write: oracle_topics.txt
+write: blog_post_titles.txt
+append: blog_post_titles.txt
+write: oracle_blog_post_titles.txt
+write: oracle_architecture_blog_post_outline.txt
+write: modern_greek_lessons.txt
+write: audio_libraries.txt
+write: language_prompt.txt
+write: intermediate_language_prompt.txt
+write: beginner_language_prompt.txt
+delete: intermediate_language_prompt.txt
+write: modern_greek_prompts.txt
+write: student_responses.txt
+write: russian_prompts.txt
+append: modern_greek_prompts.txt
+append: language_resources.txt
+write: modern_greek_resources.txt
+write: russian_resources.txt
+write: next_command.txt
+write: best_resources.txt
+write: modern_greek.txt
+write: language_instructor.py
